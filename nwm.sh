@@ -1,2 +1,4 @@
 #!/bin/sh
-exec /usr/local/bin/node /home/mtakada/mnt/nwm-user/nwm-user.js 2>/home/mtakada/mnt/nwm-user/nwm.err.log 1>/home/mtakada/mnt/nwm-user/nwm.log
+xset b off
+xmodmap ~/.xmodmap
+exec /usr/local/bin/coffee /home/nick/github/nwm-user/nwm-user.coffee 2>/home/nick/github/nwm-user/nwm.err.log 1>/home/nick/github/nwm-user/nwm.log
