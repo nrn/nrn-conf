@@ -1,6 +1,6 @@
 # My nwm config
-
-This is what I use for my nwm.
+This is the config of nrn, somewhat modified from the original mixu config and starting to include my own other config files.
+If you stumbled on this not knowing what is going on, please go to http://github.com/mixu/nwm-user.
 
 Customizations:
 
